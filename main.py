@@ -6,9 +6,6 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-if __name__ == "__main__":
-	app.run(host="0.0.0.0", port=os.environ.get("PORT", 5000))
-
 @app.route("/")
 def hello_world():
 	return "<p>Hello, World!</p>"
@@ -56,7 +53,7 @@ def stocks():
 	ebitda_df = get_ebitda_df()
 
 	df = merged_esg_scores()
-	df = df.loc[(df.parent_aspect == 'S&P Global ESG Score')]
+	df = df.loc[(df["parent_aspect"] == "S&P Global ESG Score") | (df["aspect"] == "S&P Global ESG Score")]
 
 	pivoted_df = df.pivot_table(index='ticker', columns='aspect', values='score_value')
 	pivoted_df = pivoted_df.loc[((pivoted_df['Environmental Dimension'] > e_cohort)
@@ -66,21 +63,21 @@ def stocks():
 	pivoted_df = pivoted_df.merge(ebitda_df, how="inner", on="ticker")
 
 	columns = pivoted_df.columns
-	for i in range(3, len(columns)-1):
+	for i in range(4, len(columns)-1):
 		prev_column = columns[i+1]
 		column = columns[i]
 		pivoted_df[column] = (pivoted_df[column]/pivoted_df[prev_column]) - 1
 
 	pivoted_df["sum"] = 0
 	pivoted_df["amount"] = 0
-	for i in range(3, len(columns)-1):
+	for i in range(4, len(columns)-1):
 		pivoted_df["sum"] += pivoted_df[columns[i]]
 		pivoted_df["amount"] += 1
 
 	pivoted_df["avg_ebitda_return"] = pivoted_df["sum"] / pivoted_df["amount"]
-	pivoted_df = pivoted_df.drop(columns=pivoted_df.columns[3:-1])
+	pivoted_df = pivoted_df.drop(columns=pivoted_df.columns[4:-1])
 
-	pivoted_df.columns = ['E', 'G', 'S', "avg_ebitda_return"]
+	pivoted_df.columns = ['E', 'G', 'score', 'S', "avg_ebitda_return"]
 
 	pivoted_df.sort_values(["avg_ebitda_return"], ascending=[0], inplace=True)
 
@@ -90,3 +87,6 @@ def stocks():
 	pivoted_df.reset_index(inplace=True)
 
 	return Response(pivoted_df.to_json(orient="records"), mimetype='application/json')
+
+if __name__ == "__main__":
+	app.run(host=os.environ.get("HOST", "127.0.0.1"), port=os.environ.get("PORT", 5000))
