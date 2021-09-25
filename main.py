@@ -1,9 +1,13 @@
 from flask import Flask, Response, request
 from flask_cors import CORS
 import pandas as pd
+import os
 
 app = Flask(__name__)
 CORS(app)
+
+if __name__ == "__main__":
+	app.run(host="0.0.0.0", port=os.environ.get("PORT", 5000))
 
 @app.route("/")
 def hello_world():
