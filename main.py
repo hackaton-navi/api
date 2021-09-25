@@ -41,7 +41,7 @@ def get_ebitda_df():
 
 	return ebitda_df
 
-@app.route("/optimize")
+@app.route("/optimize", methods=["post"])
 def stocks():
 	data = request.get_json()
 	e_cohort = data["e"]
@@ -61,13 +61,26 @@ def stocks():
 
 	pivoted_df = pivoted_df.merge(ebitda_df, how="inner", on="ticker")
 
-	# columns = pivoted_df.columns
-	# for i in range(len(columns)-2, 5, -1):
-	# 	prev_column = columns[i+1]
-	# 	column = columns[i]
-	# 	pivoted_df[column] = (pivoted_df[prev_column]/pivoted_df[column]) - 1
+	columns = pivoted_df.columns
+	for i in range(3, len(columns)-1):
+		prev_column = columns[i+1]
+		column = columns[i]
+		pivoted_df[column] = (pivoted_df[column]/pivoted_df[prev_column]) - 1
 
-	# pivoted_df.columns = ['E', 'G', 'S']
+	pivoted_df["sum"] = 0
+	pivoted_df["amount"] = 0
+	for i in range(3, len(columns)-1):
+		pivoted_df["sum"] += pivoted_df[columns[i]]
+		pivoted_df["amount"] += 1
+
+	pivoted_df["avg_ebitda_return"] = pivoted_df["sum"] / pivoted_df["amount"]
+	pivoted_df = pivoted_df.drop(columns=pivoted_df.columns[3:-1])
+
+	pivoted_df.columns = ['E', 'G', 'S', "avg_ebitda_return"]
+
+	pivoted_df.sort_values(["avg_ebitda_return"], ascending=[0], inplace=True)
+
+	pivoted_df = pivoted_df.iloc[:amount_stocks]
 
 	pivoted_df.reset_index(inplace=True)
 
