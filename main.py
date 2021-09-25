@@ -10,8 +10,8 @@ def hello_world():
 	return "<p>Hello, World!</p>"
 
 def merged_esg_scores():
-	companies_df = pd.read_csv("../data/companies_br.csv").set_index("company_id")
-	esg_df = pd.read_csv("../data/esg_scores_history_br.csv").set_index("company_id")
+	companies_df = pd.read_csv("./data/companies_br.csv").set_index("company_id")
+	esg_df = pd.read_csv("./data/esg_scores_history_br.csv").set_index("company_id")
 
 	l = []
 	for i in esg_df.index:
@@ -35,7 +35,7 @@ def read_esg_data():
 	return Response(pivoted_df.to_json(orient="records"), mimetype='application/json')
 
 def get_ebitda_df():
-	ebitda_df = pd.read_csv("../data/ebitda_hist.csv").set_index("ticker")
+	ebitda_df = pd.read_csv("./data/ebitda_hist.csv").set_index("ticker")
 	for column in ebitda_df.columns:
 		ebitda_df[column] = pd.to_numeric(ebitda_df[column])
 
