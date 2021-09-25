@@ -44,10 +44,10 @@ def get_ebitda_df():
 @app.route("/optimize", methods=["post"])
 def stocks():
 	data = request.get_json()
-	e_cohort = data["e"]
-	s_cohort = data["s"]
-	g_cohort = data["g"]
-	amount_stocks = data["amount"]
+	e_cohort = int(data["e"])
+	s_cohort = int(data["s"])
+	g_cohort = int(data["g"])
+	amount_stocks = int(data["amount"])
 
 	ebitda_df = get_ebitda_df()
 
@@ -80,7 +80,8 @@ def stocks():
 
 	pivoted_df.sort_values(["avg_ebitda_return"], ascending=[0], inplace=True)
 
-	pivoted_df = pivoted_df.iloc[:amount_stocks]
+	if pivoted_df.shape[0] > amount_stocks:
+		pivoted_df = pivoted_df.iloc[:amount_stocks]
 
 	pivoted_df.reset_index(inplace=True)
 
