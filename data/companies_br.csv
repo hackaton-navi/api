@@ -1,0 +1,678 @@
+company_id,region,country,exchange,industry,company_name,ticker,trading_status
+683719,Latin America and Caribbean,Brazil,BOVESPA,Aerospace and Defense,Embraer S.A.,EMBR3,Active
+879948,Latin America and Caribbean,Brazil,BOVESPA,Aerospace and Defense,Taurus Armas S.A.,TASA4,Active
+434971465,Latin America and Caribbean,Brazil,BOVESPA,Air Freight and Logistics,Sequoia Logística e Transportes S.A.,SEQL3,Active
+240867411,Latin America and Caribbean,Brazil,BOVESPA,Airlines,Azul S.A.,AZUL4,Active
+10127886,Latin America and Caribbean,Brazil,BOVESPA,Airlines,Gol Linhas Aéreas Inteligentes S.A.,GOLL4,Active
+880682,Latin America and Caribbean,Brazil,BOVESPA,Auto Components,Fras-le S.A.,FRAS3,Active
+878137,Latin America and Caribbean,Brazil,BOVESPA,Auto Components,MAHLE Metal Leve S.A.,LEVE3,Active
+878235,Latin America and Caribbean,Brazil,BOVESPA,Auto Components,Mangels Industrial S.A.,MGEL4,Active
+8475474,Latin America and Caribbean,Brazil,BOVESPA,Auto Components,Plascar Participações Industriais S.A.,PLAS3,Active
+877821,Latin America and Caribbean,Brazil,BOVESPA,Auto Components,Tupy S.A.,TUPY3,Active
+9441197,Latin America and Caribbean,Brazil,BOVESPA,Auto Components,Wetzel S.A.,MWET4,Active
+880926,Latin America and Caribbean,Brazil,BOVESPA,Banks,Alfa Holdings S.A.,RPAD3,Active
+880536,Latin America and Caribbean,Brazil,BOVESPA,Banks,BRB - Banco de Brasília S.A.,BSLI4,Active
+4493027,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco ABC Brasil S.A.,ABCB4,Active
+880523,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Alfa de Investimento S.A.,BRIV4,Active
+20464416,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco BMG S.A.,BMGB4,Active
+877263,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Bradesco S.A.,BBDC4,Active
+98507226,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Inter S.A.,BIDI4,Active
+880409,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Mercantil do Brasil S.A.,BMEB4,Active
+26936075,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Pan S.A.,BPAN4,Active
+27461636,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Pine S.A.,PINE4,Active
+34120227,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco Santander (Brasil) S.A.,SANB4,Active
+880456,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco da Amazônia S.A.,BAZA3,Active
+874155,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco do Brasil S.A.,BBAS3,Active
+880410,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco do Estado de Sergipe S.A.,BGIP4,Active
+8474690,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco do Estado do Pará S.A.,BPAR3,Active
+878157,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banco do Estado do Rio Grande do Sul S.A.,BRSR6,Active
+880481,Latin America and Caribbean,Brazil,BOVESPA,Banks,Banestes S.A - Banco do Estado do Espírito Santo,BEES3,Active
+873831,Latin America and Caribbean,Brazil,BOVESPA,Banks,Itaú Unibanco Holding S.A.,ITUB4,Active
+875352,Latin America and Caribbean,Brazil,BOVESPA,Banks,Itaúsa - Investimentos Itaú SA,ITSA4,Active
+134386019,Latin America and Caribbean,Brazil,BOVESPA,Beverages,Ambev S.A.,ABEV3,Active
+20385770,Latin America and Caribbean,Brazil,BOVESPA,Biotechnology,Biomm S.A.,BIOM3,Active
+47843956,Latin America and Caribbean,Brazil,BOVESPA,Biotechnology,Blau Farmacêutica S.A.,BLAU3,Active
+9441196,Latin America and Caribbean,Brazil,BOVESPA,Building Products,HAGA S/A Indústria e Comércio,HAGA4,Active
+878295,Latin America and Caribbean,Brazil,BOVESPA,Building Products,PBG S.A.,PTBL3,Active
+652644677,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Alianza Fofii Fundo De Investimento Imobiliario,AFOF11,Active
+543632477,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario,ALZR11,Active
+653382338,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Autonomy Edifícios Corporativos Fundo de Investimento Imobiliario,AIEC11,Active
+21953226,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,"B3 S.A. - Brasil, Bolsa, Balcão",B3SA3,Active
+252731415,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,BB ETF S&P Dividendos Brasil Fundo de Indice,BBSD11,Active
+270041356,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,BB Recebiveis Fundo Investimento Imobiliario,BBIM11,Active
+102233801,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,BR Advisory Partners Participações S.A.,BRBI11,Active
+880457,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bahema Educação S.A.,BAHI3,Active
+947044,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Banco BTG Pactual S.A.,BPAC3,Active
+880527,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Banco Mercantil de Investimentos S.A.,BMIN4,Active
+22847909,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Banco Modal S.A.,MODL3,Active
+217666642,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Banrisul N Front Fund Investment IMO FII Fund,BNFS11,Active
+703728449,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Barzel Fundo De Investimento Imobiliario,FII BARZEL,Active
+553390887,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bb Renda Papeis Imobiliarios II Fundo Investimento Imobiliario,RDPD11,Active
+653709147,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bluecap Renda Logistica FII Fund,BLCP11,Active
+701813070,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bluemacaw Credito Imobiliario Fundo De Investimento Imobiliario,BLMC11,Active
+690529789,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bluemacaw Logastica Fundo De Investimento ImobiliaRio,BLMG11,Active
+647534722,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bluemacaw Office Fund Ii - Fundo De Investimento Imobiliario,BLMO11,Active
+638531721,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Brazil Real Estate Victory Fund I Fundo De Investimento Imobiliario,BREV11,Active
+533145988,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Brazil Realty Fundo Investimento Imobiliario,BZLI11,Active
+603634430,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Bresco - Fundo De Investimento Imobiliario,BRCO11,Active
+694028310,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Brio Credito Estruturado - Fundo De Investimento Imobiliario,BICE11,Inactive
+603633297,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Brio Real Estate II - Fundo De Investimento Imobiliario - FII,BRIM11,Active
+676018032,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Brio Real Estate III - Fundo De Investimento Imobiliario,BRIP11,Active
+648235122,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Brz Infra Portos Fundo De Investimento Em Participacoes Em Infraestrutura,BRZP11,Active
+686726864,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Btg Pactual Esg Fundo De Indice S P Brazil Esg,ESGB11,Active
+690006689,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Btg Pactual Infraestrutura Dividendos Fundo De Investimento Em Participacoes Em Infraestrutura,BDIV11,Active
+718193415,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Btg Pactual S&P B3 Ingenius Fundo De Indice,GENB11,Active
+224162701,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,CAIXA ETF Ibovespa Fundo de Índice - Cotas Fund,XBOV11,Active
+608294113,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,CSHG Imobiliario Fof - Fundo De Investimento Imobiliario - Fii,HGFF11,Active
+106348095,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII,HGCR11,Active
+554073978,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,CSHG Renda Urbana Fundo Investimento Imobilirio - FII,HGRU11,Active
+246737166,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,CXFI - Caixa Rio Bravo Fundo Fundos,CXRI11,Active
+597732778,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Caixa Rio Bravo Fundo De Fundos De Investimento Imobiliario II-Cotas,CRFF11,Active
+710116338,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Canvas Cri - Fundo De Investimento Imobiliario,CCRF11,Active
+687721573,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Capitania Infra Fic Fi Infra Rf Cp,CPTI11,Active
+644733711,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Capitania Reit FOF - Fundo De Investimento Imobiliario,CPFF11,Active
+247931675,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Capitania Securities II Fundo Investimento Imobiliario FII,CPTS11,Active
+244028940,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Castello Branco Off Park Fund In Im,CBOP11,Active
+8474735,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Cemepe Investimentos S.A.,MAPT4,Active
+686798057,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Cf2 Real Estate Investment Fund,CFHI11,Active
+694278203,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Cidade Jardim Continental Tower Fundo De Investimento Imobiliario,CJCT11,Active
+32455451,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Coinvalores Dtvm Ltda.,EURO11,Active
+704726105,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Core Metropolis Fundo De Investimento Imobiliario,CORM11,Active
+320087600,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Cshg Atrium Shopping Santo Andr Fundo De Investimento Imobilirio Fii,ATSA11,Active
+214361931,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Cshg Jhsf Prime Offices Fundo De Investimento Imobiliario,HGPO11,Active
+685218482,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Devant Recebiveis Imobiliarios Fundo De Investimento Imobiliario,DEVA11,Active
+606682045,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,ETF Bradesco Ibovespa Fundo De Indice,BOVB11,Active
+644867135,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,ETF Bradesco Ima-B5 Plus Fundo De Indice,B5MB11,Active
+688863978,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Energy Resort Fundo De Investimento Imobiliario,EGYR11,Active
+644932650,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Etf Bradesco Ima-B Fundo De Indice,IMBB11,Active
+612519193,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Europa 105 Fundo Investimento Imobiliario,ERPA11,Active
+418824023,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Even Permuta Kinea Fii Fundo Investimento,KINP11,Active
+257478473,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,FCCQ - Conquest Fundo Investimento Participacoes - Cota Fundo – Cotas Fund,FCCQ11,Active
+35580942,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,FD Invest Imob Hotel Maxinvest,HTMX11,Active
+112326399,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,FII ABC Plaza Shopping Fund,ABCP11,Active
+702442289,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,FII Btg Pactual Agro Logistica,BTAL11,Active
+677233136,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,FII Mogno Cri High Grade,MGCR11,Active
+241930689,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,FVPQ - Fii V Parque,FVPQ11,Active
+58314469,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Finor -Ci Fund,FNOR11,Active
+22947495,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fiset Pesca Fiset Fspe,FSPE11,Active
+648590596,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento ImobiliaRio Multi Renda Urbana,HBRH11,Active
+668681027,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento ImobiliarRio Vbi Prime Properties,PVBI11,Active
+709438169,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario - Devant Fundo De Fundos Imobiliarios,DVFF11,Active
+603649272,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario - FII UBS Office,RECT11,Active
+559406044,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario - Fii Brlprop,BPRP11,Active
+651374312,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Athena I,FATN11,Active
+630487020,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario BTG Pactual Shoppings,BPML11,Active
+603650370,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Barigui Rendimentos Imobiliario I Fii,BARI11,Active
+138882449,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Bm Cenesp - Fii - Inicio De Negociacao,CNES11,Active
+630788855,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Fof Integral Brei,IBFF11,Active
+606682157,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Hectare Ce,HCTR11,Active
+636812721,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Housi,HOSI11,Active
+1674174562,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Maua Capital High Yield - FII,MCHY11,Active
+636513021,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Maua Capital Recebiveis Imobiliarios,MCCI11,Active
+570657331,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Ourinvest Re I,WTSP11B,Active
+639336347,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario RB Capital I Fundo De Fundos,RFOF11,Active
+690007044,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Rec Logistaca,RELG11,Active
+685382470,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Riza Terrax,RZTR11,Active
+654683806,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Tourmalet V Edificio Cidade Nova,TCIN11,Active
+629618197,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario VBI Credito,CVBI11,Active
+660078582,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Imobiliario Mint Educacional,MINT11,Active
+325290151,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Participacoes Nova Raposo,NVRP11,Active
+435255470,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimento Participacoes Rbr Desenvolvimento Multiestrategia,RBRM11,Active
+108906085,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo De Investimentos Imobiliarios - Max Ret,MAXR11,Active
+557652578,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Infestimento Imobiliario Btg Pactual Credito Imobiliario,BTCR11,Active
+244241653,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Invest,NVHO11,Active
+243427498,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Invest part Infra XP Omega I - Cotas Fund,XPOM11,Active
+59116407,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investec IMB Shopping West Plaza Fund,WPLZ11,Active
+551728256,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario - FII RBR Rendimento High Grade,RBRR11,Active
+534395659,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios,RECR11,Active
+549506226,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Iridium Recebiveis Imobiliarios,IRDM11,Active
+549739550,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Mogno Fundo Fundos,MGFF11,Active
+430465955,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Rbr Alpha Fundos De Fundos,RBRF11,Active
+561209711,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Rbr Properties Fii,RBRP11,Active
+418428198,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Tg Ativo Real,TGAR11,Active
+545748932,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimento Imobiliario Votorantim Logistica,VTLT11,Active
+570773664,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario,RBRY11,Active
+60228662,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento Amazônia - FINAM,FNAM11,Active
+171925946,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento Imobiliario The One Fund,ONEF11,Active
+241734230,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento Imobiliário - FII TB Office,TBOF11,Active
+225002222,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento Imobiliário FII CEO Cyrela Fund,CEOC11,Active
+32455503,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento Imobiliário Trade Center,FTCE11B,Active
+216364668,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento em Cotas Fund,TORM13,Active
+134066613,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Investimento em Participações em Infraestrutura BB Votorantim Energia Sustentável I,ESUU11,Active
+60919119,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundo de Recuperacao Economica,FDES11,Active
+47390715,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Fundos de Investimento Imobiliário Memorial Office Of Cotas,FMOF11,Active
+687626285,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,"G2D Investments, Ltd.",G2DI33,Active
+92133,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,"GP Investments, Ltd.",GPIV33,Active
+662028845,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Galapagos Fundo De Fundos Fii Fundo De Investimento Imobiliario,GCFF11,Active
+695961858,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Galapagos Recebiveis Imobiliarios Fundo De Investimento Imobiliario,GCRI11,Active
+620506568,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,General Shopping E Outlets Do Brasil Fundo De Investimento Imobiliario FII,GSFI11,Active
+421014964,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Ggr Covipe Renda Fundo Investimento Imobiliario,GGRC11,Active
+606551116,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Grupo Rcfa Fundo De Investimento,RCFA11,Active
+625580002,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Habitat Ii - Fundo De Investimento Imobiliario,HABT11,Active
+717534324,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hashdex Nasdaq Bitcoin Reference Rate Fundo De Indice,BITH11,Active
+701030404,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hashdex Nasdaq Crypto Index Fundo De Indice,HASH11,Active
+1671386716,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hashdex Nasdaq Ethereum Reference Price Fundo De Indice,ETHE11,Active
+701813653,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hectare Recebiveis High Grade Fundo De Investimento Imobiliario  Fii,HCHG11,Active
+641525659,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hedge Aaa Fundo De Investimento Imobiliario,HAAA11,Active
+563716703,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hedge Logistica Fundo Investimento Imobiliario,HLOG11,Active
+648592492,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hedge Real Estate I Fundo De Investimento Imobliario,HPDP11,Active
+603651841,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hedge Realty Development Fundo Investimento Imobiliario FII,HRDF11,Active
+648904496,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hedge Recebiveis Fundo De Investimento Imobiliario,HREC11,Active
+544147906,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hedge Top Fofii 3 Fundo Investimento Imobilirio,HFOF11,Active
+696998257,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hgi Creditos Imobiliarios Fundo De Investimento,HGIC11,Active
+36437865,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hospital Nossa Senhora De Lourde Fund,NSLU11,Active
+678163322,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hsi Ativos Financeiros Fundos Investimentos Imoliarios,HSAF11,Active
+607165031,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hsi Malls Fundo De Investimento Imobiliario,HSML11,Active
+677688806,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Hsi Renda Imobiliario - Fundo De Investimento Imobiliario,HSRE11,Active
+633039924,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Husi Fundo De Investimento Imobiliario,HUSI11,Active
+660079434,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Ifi E Inter Fundo De Investimento Imobiliario,IFIE11,Active
+639336499,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Imob I Fundo De Investimento Imobiliario - FII,LGCP11,Active
+654684792,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Imob IV Fundo De Investimento Imobiliario,BTSG11,Active
+280304483,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Imobiliario Votorantim Securities Fundos de Investimento,VSEC11,Active
+629618568,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Inter Titulos Imobiliarios Fundo De Investimento Imobiliario,BICR11,Active
+713448999,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Investo ETF MSCI US Technology Fundo De Investimento De Indice – Investimento No Exterior,USTK11,Active
+158366502,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now IDIV Index Fund,DIVO11,Active
+129555279,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now IFNC Index Fund,FIND11,Active
+235822966,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now IGCT Index Fund,GOVE11,Active
+632070148,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now IMA-B5+ Fundo De Indice,IB5M11,Active
+158359559,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now IMAT Index Fund,MATB11,Active
+632070479,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now IRF - M P2 Fundo De Indice,IRFM11,Active
+279633989,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now ISE Index Fund,ISUS11,Active
+378587688,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now Ibovespa Fundo de Indice,BOVV11,Active
+605051448,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now Id ETF Ima-B Fundo De Indice,IMAB11,Active
+694138553,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now Ima-B5 P2 Fundo De Indice,B5P211,Active
+35786960,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now PIBB IBrX-50 Index Fund,PIBB11,Active
+716233145,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now Russell® 1000 Green Revenues 50 Fundo De Indice,REVE11,Active
+327169547,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now S&P500 TRN Fundo de Índice,SPXI11,Active
+651178948,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,It Now Small Cap Fundo De Indice Fund,SMAC11,Active
+603654747,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,JPP Allocation Mogno - Fundo De Investimento Imobiliario,JPPA11,Active
+689535293,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Kilima Fundo De Investimento Em Cotas De Fundos Imobiliarios Suno 30,KISU11,Active
+558981983,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Kinea High Yield Cri Fundo Investimento Imobiliario FII,KNHY11,Active
+373907676,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Kinea Indices Precos Fundo Investimento Imobiliario - FII,KNIP11,Active
+684169279,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Kinea Securities Fundo De Investimento Imobiliario – Fii,KNSC11,Active
+632070230,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Legatus Shoppings Fundo De Investimento Imobiliario - FII,LASC11,Active
+606551069,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Loft I Fundo De Investimento Imobiliario,LOFT11B,Active
+673383721,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Loft II Fundo De Investimento Imobiliario,LFTT11,Active
+638105190,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Luggo Fundo De Investimento Imobiliario De FII,LUGG11,Active
+585931214,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Mac Fundo De Investimento Imobiliário fUND,DMAC11,Active
+539395580,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Malls Brasil Fundo Investimento Imobiliario,MALL11,Active
+711160498,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Maua Capital Hedge Fund Fundo De Investimento Imobiliario,MCHF11,Active
+648336986,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,More Real Estate FOF Fundo De Investimento Imobiliario,MORE11,Active
+645543225,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Multioffices 1 Fundo De Investimento Imobiliario,MTOF11,Active
+630791928,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Newport Logastica Fundo De Investimento Imobiliario,NEWL11,Active
+411449662,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Ourinvest Jpp Fundo Investimento Imobiliario - Fii,OUJP11,Active
+346156748,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Ouro Preto Desenvolvimento Imobiliario I Fundo Investimento Imobiliario - Fii,ORPD11,Active
+818848,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Padtec Holding S.A.,PDTC3,Active
+106477689,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Parque Dom Pedro Shopping Center Fund,PQDP11,Active
+565266169,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Patria Edificios Corporativos Fundo Investimento Imobiliario Fii,PATC11,Active
+697694421,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Patria Infraestrutura Energia Core Fundo De Investimento Em Participacoes Em Infraestrutura,PICE11,Active
+653303138,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Patria Logistica Fundo De Investimento Imobiliario,PATL11,Active
+645173819,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Perfin Apollo Energia Fundo De Investimento Em Participacoes Em Infraestrutura,PFIN11,Active
+632583209,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Plural Recebiveis Imobiliarios Fundo De Investimento Imobiliario,PLCR11,Active
+211738663,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Polo Fundo de Investimento Imobiliario – FII Recebiveis Imobiliarios IMO - Cotas Fund,PLRI11,Active
+282277033,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Porto Sudeste Royalties Fundo Investimento Participacoes Infraestrutura Fund,FPOR11,Active
+639004801,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Quasar Agro - Fundo De Investimento Imobiliario,QAGR11,Active
+641411843,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Quasar Credito Imobiliario Fundo De Investimento Imobiliario,QAMI11,Active
+418973141,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,RB Capital Asset Management Ltda.,RRCI11,Active
+611863616,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,RB Capital Desenvolvimento Residencial III Fundo De Investimento Imobillario - FII,RSPD11,Active
+117081451,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,RB Capital Development Residential Real Estate Investment Fund II,RBDS11,Active
+628661425,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,RB Capital Office Income Fundo De Investimento Imobiliario,RBCO11,Active
+656048125,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,RBR Log FII,RBRL11,Active
+264489530,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,REIT Rivera Fundo Invest Imobiliario Cotas,REIT11,Active
+673516621,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rb Capital Anhanguera Fundo De Investimento Imobiliario,PQAG11,Active
+648361349,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rb Capital Desenvolvimento Residencial IV Fundo De Investimento Imobiliario - FII,RBIR11,Active
+551730151,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rb Capital Tfo Situs Fundo Investimento Imobiliario Fii,RBTS11,Active
+656421823,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rbr Desenvolvimento Comercial Feeder Fof Fundo De Investimento Imobiliario,RCFF11,Active
+253892451,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Real Estate Investment Fund FII Nch Brazil - Real Estate Receivables Fund,EQIN11,Active
+145228786,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Real Estate Investment Fund Industry in Brazil,FIIB11,Active
+696279163,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rec Fundo De Fundos - Fii Fundo De Investimento Imobiliario,RECX11,Active
+611302854,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rio Bravo Credito Imobiliario IV Fundo De Investimento Imobiliario - FII,RBHG11,Active
+659058253,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Rio Bravo Renda Residencial Fundo De Investimentos Imobiliario,RBRS11,Active
+688675751,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Riza Akin Fundo De Investimento Imobiliario – FII,RZAK11,Active
+622734720,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,SDI Properties Fundo De Investimento Imobiliario,TEPP11,Active
+378505262,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,SPA Fundo Investimento Imobiliario,SPAF11,Inactive
+612512963,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Santander Papeis Imobiliarios Cdi Fundo De Investimento Imobiliario,SADI11,Active
+640185656,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Santander Renda De Alugueis Fundo Investimento Imobiliarios,SARE11,Active
+32455302,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Scp Fundo De Investimento NPV,SCPF11,Active
+632364137,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Solarium FII Fundo De Investimento Imobiliario,SOLR11,Active
+705614915,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Suno Fundo De Fundos De Investimento Imobiliario,SNFF11,Active
+638159098,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Supernova Fundo De Investimento Imobiliario - Recebiveis Imobiliarios,AFCR11,Active
+620098877,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,TC Traders Club S.A.,TRAD3,Active
+542275591,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,TRX Renda Fundo Investimento Imobiliario,TRXF11,Active
+690363611,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Tishman Speyer Renda Corporativa Fundo De Investimento Imobiliario,TSER11,Active
+651001471,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Tordesilhas Ei Fundo De Investimento Imobiliario,TORD11,Active
+256853595,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Transinc Fundo,TSNC11,Inactive
+552730189,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Treecorp Real Estate Fundo Investimento Imobiliario I,TCPF11,Active
+680980332,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Ifix,XFIX11,Active
+688415114,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Lbma Ouro Fundo Investimento Cotas De Fundo De Andice Investimento Exterior,GOLD11,Skeletal
+693139696,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Msci Acwi Fundo De Indice,ACWI11,Active
+693139982,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Msci China Fundo De Indice,XINA11,Active
+713454678,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Msci Mercados Emergentes Fundo De Investimento De Indice - Investimento No Exterior,EMEG11,Active
+709989545,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Nasdaq 100 Fundo De Investimento De Indice - Investimento No Exterior,NASD11,Active
+718947238,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trend Etf Small Caps Fundo De Indice,XMAL11,Active
+662668062,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Trx Real Estate II Fundo De Investimento Imobiliario - Fii,TRXB11,Active
+32455350,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Unitas DTVM S.A.,FLMA11,Active
+647539215,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Urca Prime Renda Fundo De Investimento Imobiliario - FII,URPR11,Active
+615777665,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,VX XVI - Fundo De Investimento Imobiliario,VXXV11,Active
+649474402,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Valora Cri Indice De Preco Fundo De Investimento Imobiliario,VGIP11,Active
+701374940,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Valora Hedge Fund Fundo De Investimento Imobiliario - Fii,VGHF11,Active
+557660213,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Valora Re III Fundo De Investimento Imobiliario,VGIR11,Active
+690217985,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vbi Consumo Essencial Fundo De Investimento Imobiliarios,EVBI11,Active
+649014639,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vbr Reits Fof Fundo De Investimento Imobiliario,RVBI11,Active
+249883765,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vc6 Fundo Invest Imobiliario FII,VERE11,Active
+637596273,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vectis Juros Real Fundo De Investimento Imobiliario - Fii,VCJR11,Active
+697685273,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Versalhes Recebiveis Imobiliarios - Fundo De Investimento Imobiliario,VSLH11,Active
+269106370,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vida Nova Fundo Investimento Immobiliere,FIVN11,Active
+636195775,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vinci Corporate Fundo De Investimento Imobiliario,VINO11,Active
+636681947,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vinci Energia Fundo De Investimento Em Participacao Em Infraestrutura,VIGT11,Active
+703875078,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vinci Imoveis Urbanos Fundo De Investimento Imobiliario,VIUR11,Active
+636515651,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vinci Instrumentos Financeiros Fundo De Investimento Imobiliario,FII VINCI IF,Inactive
+572052036,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vinci Logistica Fundo Investimento Imobiliario FII,VILG11,Active
+433093458,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Vinci Shopping Centers Fundo Investimento Imobiliario - Fii,VISC11,Active
+558987596,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Votorantim Securities Master Fundo Investimento Imobiliario Fii,VOTS11,Active
+615778607,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,XP Corporate Fundo De Investimento Imobiliario - FII,FII XP PROP,Active
+691641390,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,XP FIC De Fundos Incentivados De Investimento Em Infraestrutura Renda Fixa,XPID11,Active
+628662778,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,XP Selection Fundo De Fundos De Investimento Imobiliario - FII,XPSF11,Active
+633054042,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Xp Credito Imobiliario ae Fundo De Investimento Imobiliario,XPCI11,Active
+569544288,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Xp Industrial Fundo Investimento Imobiliario,XPIN11,Active
+558570220,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Xp Log Fundo Investimento Imobiliario FII,XPLG11,Active
+543641516,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Xp Malls Fundo Investimentos Imobiliarios,XPML11,Active
+643701413,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Xp Properties Fundo De Investimento Imobiliario,XPPR11,Active
+613243832,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Yaguara Capital High Yield Fundo De Investimento Imobiliario,ARCT11,Active
+693139027,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,Zion Capital Fundo De Investimento Imobiliario-Fii,ZIFI11,Active
+60225948,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,iShares BM&FBovespa Small Cap Fundo de Índice,SMAL11,Active
+106407575,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,iShares IBrX-Índice Brasil (IBrX-100) Index Fund,BRAX11,Active
+60226076,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,iShares Ibovespa Index Fund,BOVA11,Active
+261789599,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,iShares S&P 500 Fundo de Investimento - Investimento No Exterior,IVVB11,Active
+208413505,Latin America and Caribbean,Brazil,BOVESPA,Capital Markets,iShares Índice Carbono Eficiente (ICO2) Brasil - Fundo de Índice,ECOO11,Active
+394524,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Braskem S.A.,BRKM5,Active
+9638957,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Dexxos Participações S.A.,DEXP3,Active
+5542101,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Fertilizantes Heringer S.A.,FHER3,Active
+40478846,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Nutriplant Indústria e Comércio S/A,NUTR3,Active
+881016,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Sansuy S.A.,SNSY5,Active
+5663069,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Tronox Pigmentos do Brasil S.A.,CRPG5,Active
+878163,Latin America and Caribbean,Brazil,BOVESPA,Chemicals,Unipar Carbocloro S.A.,UNIP6,Active
+22286836,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,ATMA Participações S.A.,ATMP3,Active
+279646657,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,"Allpark Empreendimentos, Participações e Serviços S.A.",ALPK3,Active
+280812082,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,Ambipar Participações e Empreendimentos S.A.,AMBP3,Active
+279586900,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,GPS Participações e Empreendimentos S.A.,GGPS3,Active
+283056440,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,OceanPact Serviços Marítimos S.A.,OPCT3,Active
+699248173,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,Orizon Valorização de Resíduos S.A.,ORVR3,Active
+279761985,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,Priner Serviços Industriais S.A.,PRNR3,Active
+5927176,Latin America and Caribbean,Brazil,BOVESPA,Commercial Services and Supplies,Valid Soluções S.A.,VLID3,Active
+2785092,Latin America and Caribbean,Brazil,BOVESPA,Communications Equipment,Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira,INTB3,Active
+145301860,Latin America and Caribbean,Brazil,BOVESPA,Communications Equipment,Livetech da Bahia Indústria e Comércio S.A,LVTC3,Active
+876989,Latin America and Caribbean,Brazil,BOVESPA,Construction Materials,Eternit S.A.,ETER3,Active
+879905,Latin America and Caribbean,Brazil,BOVESPA,Construction and Engineering,Azevedo & Travassos S.A.,AZEV4,Active
+116401478,Latin America and Caribbean,Brazil,BOVESPA,Construction and Engineering,Kallas Incorporações e Construções S.A.,KLAS3,Active
+881210,Latin America and Caribbean,Brazil,BOVESPA,Construction and Engineering,Sondotécnica Engenharia de Solos S.A.,SOND5,Active
+9438131,Latin America and Caribbean,Brazil,BOVESPA,Construction and Engineering,Tecnosolo Engenharia S.A.,TCNO4,Active
+10062045,Latin America and Caribbean,Brazil,BOVESPA,Consumer Finance,"Financeira Alfa S.A. - Crédito, Financiamento e Investimentos",CRIV3,Active
+880902,Latin America and Caribbean,Brazil,BOVESPA,Consumer Finance,Mercantil do Brasil Financeira S.A.,MERC3,Active
+3800060,Latin America and Caribbean,Brazil,BOVESPA,Containers and Packaging,Klabin S.A.,KLBN4,Active
+9438123,Latin America and Caribbean,Brazil,BOVESPA,Containers and Packaging,Metalgráfica Iguaçu S.A.,MTIG4,Active
+139135096,Latin America and Caribbean,Brazil,BOVESPA,Diversified Consumer Services,Anima Holding S.A.,ANIM3,Active
+34709932,Latin America and Caribbean,Brazil,BOVESPA,Diversified Consumer Services,Cogna Educação S.A.,COGN3,Active
+31145456,Latin America and Caribbean,Brazil,BOVESPA,Diversified Consumer Services,Cruzeiro do Sul Educacional S.A.,CSED3,Active
+577835390,Latin America and Caribbean,Brazil,BOVESPA,Diversified Consumer Services,MPM Corpóreos S.A.,ESPA3,Active
+245316543,Latin America and Caribbean,Brazil,BOVESPA,Diversified Consumer Services,Ser Educacional S.A.,SEER3,Active
+35752172,Latin America and Caribbean,Brazil,BOVESPA,Diversified Consumer Services,Yduqs Participações S.A.,YDUQ3,Active
+877915,Latin America and Caribbean,Brazil,BOVESPA,Diversified Financial Services,Banco do Nordeste do Brasil S.A.,BNBR3,Active
+9441189,Latin America and Caribbean,Brazil,BOVESPA,Diversified Financial Services,Consórcio Alfa de Administração S.A.,BRGE12,Active
+880733,Latin America and Caribbean,Brazil,BOVESPA,Diversified Financial Services,"FINANSINOS S/A - Crédito, Financiamento e Investimento",FNCN3,Active
+4481054,Latin America and Caribbean,Brazil,BOVESPA,Diversified Financial Services,Monteiro Aranha S.A.,MOAR3,Active
+703662947,Latin America and Caribbean,Brazil,BOVESPA,Diversified Telecommunication Services,Brisanet Participações S.A.,BRIT3,Active
+688725187,Latin America and Caribbean,Brazil,BOVESPA,Diversified Telecommunication Services,Desktop - Sigmanet Comunicação Multimídia S.A.,DESK3,Active
+876962,Latin America and Caribbean,Brazil,BOVESPA,Diversified Telecommunication Services,Oi S.A.,OIBR4,Active
+370266,Latin America and Caribbean,Brazil,BOVESPA,Diversified Telecommunication Services,Telecomunicações Brasileiras S.A. - TELEBRÁS,TELB4,Active
+402548,Latin America and Caribbean,Brazil,BOVESPA,Diversified Telecommunication Services,Telefônica Brasil S.A.,VIVT3,Active
+633189763,Latin America and Caribbean,Brazil,BOVESPA,Diversified Telecommunication Services,Unifique Telecomunicações S.A.,FIQE3,Active
+114898031,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Afluente Transmissão de Energia Elétrica S.A.,AFLT3,Active
+48876335,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Alupar Investimento S.A.,ALUP11,Active
+5491401,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Ampla Energia e Serviços S.A.,CBEE3,Active
+4509268,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,CPFL Energia S.A.,CPFE3,Active
+5908887,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,CTEEP - Companhia de Transmissão de Energia Elétrica Paulista S.A.,TRPL4,Active
+875297,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Centrais Elétricas Brasileiras S.A. - Eletrobrás,ELET6,Active
+879915,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Centrais Elétricas de Santa Catarina S.A.,CLSC4,Active
+41953833,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia CELG de Participações S/A,GPAR3,Active
+879239,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Energética de Brasília - CEB,CEBR5,Active
+411574,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Energética de Minas Gerais,CMIG4,Active
+5503676,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Energética de Pernambuco - CELPE,CEPE5,Active
+880623,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Energética do Ceará - Coelce,COCE5,Active
+883485,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Energética do Rio Grande do Norte - COSERN,CSRN3,Active
+33984966,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Estadual de Distribuição de Energia Elétrica,CEED3,Active
+5503983,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Estadual de Geração e Transmissão de Energia Elétrica - CEEE-GT,EEEL3,Active
+392996,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia Paranaense de Energia - COPEL,CPLE6,Active
+5875293,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Companhia de Eletricidade do Estado da Bahia - COELBA,CEEB3,Active
+22399474,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,EDP - Energias do Brasil S.A.,ENBR3,Active
+883937,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Elektro Redes S.A.,EKTR4,Active
+882955,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Eletrobras Participações S.A. - Eletropar,LIPR3,Active
+880644,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Energisa Mato Grosso - Distribuidora de Energia S/A,ENMT4,Active
+12485331,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Energisa S.A.,ENGI3,Active
+26592267,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Equatorial Energia S.A.,EQTL3,Active
+20416454,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Equatorial Maranhão Distribuidora de Energia S.A.,EQMA3B,Active
+2517610,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Equatorial Pará Distribuidora de Energia S.A.,EQPA3,Active
+667391,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Light S.A.,LIGT3,Active
+2456584,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Neoenergia S.A.,NEOE3,Active
+880591,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Rede Energia Participações S.A.,REDE3,Active
+2456583,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Rio Paranapanema Energia S.A.,GEPA3,Active
+29814550,Latin America and Caribbean,Brazil,BOVESPA,Electric Utilities,Transmissora Aliança de Energia Elétrica S.A.,TAEE11,Active
+278943312,Latin America and Caribbean,Brazil,BOVESPA,Electrical Equipment,Aeris Indústria e Comércio de Equipamentos para Geração de Energia S.A.,AERI3,Active
+879431,Latin America and Caribbean,Brazil,BOVESPA,Electrical Equipment,Inepar S.A. Indústria e Construções,INEP4,Active
+879809,Latin America and Caribbean,Brazil,BOVESPA,Electrical Equipment,WEG S.A.,WEGE3,Active
+309449411,Latin America and Caribbean,Brazil,BOVESPA,"Electronic Equipment, Instruments and Components",Allied Tecnologia S.A.,ALLD3,Active
+556224,Latin America and Caribbean,Brazil,BOVESPA,Energy Equipment and Services,Lupatech S.A.,LUPA3,Active
+45986485,Latin America and Caribbean,Brazil,BOVESPA,Energy Equipment and Services,OSX Brasil S.A.,OSXB3,Active
+692873001,Latin America and Caribbean,Brazil,BOVESPA,Entertainment,Bemobi Mobile Tech S.A.,BMOB3,Active
+34427298,Latin America and Caribbean,Brazil,BOVESPA,Entertainment,T4F Entretenimento S.A.,SHOW3,Active
+145053714,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Aesapar Fundo de Investimento Imobiliário - FII,RBED11,Active
+209706138,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Aquilla Fundo Invest Imobiliario - Cotas Fund,AQLL11,Active
+257218105,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),BB Fundo De Investimento Imobiliario Progressivo,BBFI11B,Active
+224256666,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),BB Progressivo II Fundo de Investimento Imobiliário - FII,BBPO11,Active
+134458258,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),BB Renda Corporativa Fundo de Investimento Imobiliário - FII,BBRC11,Active
+111713059,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),BTG Pactual Logística Fundo de Investimento Imobiliário,BTLG11,Active
+275262391,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Bradesco Carteira Imobiliaria Ativa Fundos de Investimento Imobiliario,BCIA11,Active
+145400034,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),CSHG Real Estate - Fundo de Investimento Imobiliario - FII,HGRE11,Active
+108502334,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Cshg Logistica - Fundo De Investimento Imobiliario,HGLG11,Active
+244533217,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Domo Fundo de Investimento Imobiliário - FII,RMAI11,Active
+257277389,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),FII Votorantim shopping,VSHO11,Active
+241113996,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fator IFIX Fundo Investimento Imobiliario - FII - Cotas Fund,RBFF11,Active
+109954853,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliario Campus Faria Lima - Inicio De Negociacao,FCFL11,Active
+257027874,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliario Torre Almirante,ALMI11,Active
+146067083,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliário Caixa Trx Logística Renda,CXTL11,Active
+139491468,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliário Mercantil Do Brasil-fii -Inicio,MBRF11,Active
+256894958,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliário SC  401,FISC11,Active
+224208632,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo Invest Imobiliario Agencias Caixa - FII Fund,RBVA11,Active
+225087447,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo Invest Imobiliario Centro Textil Internacional - Cotas Fund,CTXT11,Active
+99083839,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Caixa Cedae,CXCE11B,Active
+242500924,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliario - FII Edificio Galeria,EDGA11,Active
+215609513,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliario - FII Vila Olimpia Corporate,VLOL11,Active
+41356977,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliario Edificio Almirante Barroso,FAMB11B,Active
+36409904,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Ancar IC,ANCR11B,Active
+85217521,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Anhanguera Educacional,FAED11,Active
+117432155,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund,BRCR11,Active
+236380905,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Brasil Plural Absoluto Fundo de Fundos,BPFF11,Active
+78718247,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Floripa Shopping,FLRP11,Active
+40332771,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Hospital da Criança,HCRI11,Active
+216782371,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Shopping Jardim Sul,JRDM11,Active
+114334584,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário - FII Torre Norte,TRNT11,Active
+146031451,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário BM Cyrela Thera Corporate,THRA11,Active
+242501914,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário GWI Renda Imobiliária - FII,HMOC11,Active
+242176827,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário General Shopping Ativo e Renda - FII,FIGS11,Active
+41899948,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário Panamby,PABY11,Active
+104754933,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário Presidente Vargas,PRSV11,Active
+60832736,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário Projeto Água Branca,FPAB11,Active
+112326469,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa,RCRB11,Active
+211698725,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Fundo de Investimento Imobiliário Rio Negro,RNGO11,Active
+60447132,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),HEDGE Brasil Shopping Fundo de Investimento Imobiliário,HGBS11,Active
+239814796,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),HEDGE TOP FOFII 2 Fundo de Investimento Imobiliário - FII,FOFT11,Active
+244531635,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),JHSF Rio Bravo Fazenda Boa Vista Capital Protegido Fundo de Investimento Imobiliário - FII,RBBV11,Active
+240744482,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),JPP Capital Fundo Invest Imobiliario FII,JPPC11,Active
+134106875,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),JS Real Estate multigestão - FII fund,JSRE11,Active
+214896936,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Kinea II Real Estate Equity Fundo de Investimento Imobiliário,KNRE11,Active
+116450048,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Kinea Renda Imobiliária Fundo de Investimento Imobiliário,KNRI11,Active
+237720060,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Lateres Fundo de Investimento Imobiliário,LATR11B,Active
+138530887,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Multigestao Renda Comercial Fundo De Investimento Imobiliario - FII,DRIT11B,Active
+230446933,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Máxima Renda Corporativa Fundo de Investimento Imobiliário - FII,CARE11,Active
+243971312,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário,MFII11,Active
+257277924,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Pedra Dourada Fundo De Investimento Imobiliário - FII,OULG11,Active
+231871271,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Polo Fundo de Investimento Imobiliário - Recebíveis Imobiliários II - FII,PORD11,Active
+140113401,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),RB Capital General Shopping Sulacap Real Estate Investment Fund,RBGS11,Active
+106477692,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),RB Capital Renda I Fundo de Investimento Imobiliário - FII,FIIP11B,Active
+117010918,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),RB Capital Renda II Fundo de Investimento Imobiliário - FII,RBRD11,Active
+184421428,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Renda de Escritorios Fundo de Investimento Imobiliario - Cotas Fundo,NEWU11,Active
+224394976,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),SDI Logística Rio - Fundo de Investimento Imobiliário - FII,SDIL11,Active
+231825503,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),Sp Downtown Fundo de Investimento Imobiliário - FII,SPTW11,Active
+231691535,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),XP Corporate Macaé Fundo de Investimento Imobiliário - FII,XPCM11,Active
+224208665,Latin America and Caribbean,Brazil,BOVESPA,Equity Real Estate Investment Trusts (REITs),XTED - TRX Edificios Corporativos Fundo Invest Imobiliario FII Fund,XTED11,Active
+683718,Latin America and Caribbean,Brazil,BOVESPA,Food Products,BRF S.A.,BRFS3,Active
+558700744,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Boa Safra Sementes S.A.,SOJA3,Active
+26991642,Latin America and Caribbean,Brazil,BOVESPA,Food Products,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,AGRO3,Active
+5646995,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Camil Alimentos S.A.,CAML3,Active
+880517,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Excelsior Alimentos S.A.,BAUH4,Active
+5491205,Latin America and Caribbean,Brazil,BOVESPA,Food Products,JBS S.A.,JBSS3,Active
+879614,Latin America and Caribbean,Brazil,BOVESPA,Food Products,JOSAPAR Joaquim Oliveira S.A. Participações,JOPA4,Active
+47058303,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Jalles Machado S/A,JALL3,Active
+29666565,Latin America and Caribbean,Brazil,BOVESPA,Food Products,M. Dias Branco S.A. Indústria e Comércio de Alimentos,MDIA3,Active
+6476441,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Marfrig Global Foods S.A.,MRFG3,Active
+36313803,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Minerva S.A.,BEEF3,Active
+880306,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Minupar Participações S.A.,MNPR3,Active
+21008367,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Pomifrutas S/A,FRTA3,Active
+35016821,Latin America and Caribbean,Brazil,BOVESPA,Food Products,SLC Agrícola S.A.,SLCE3,Active
+22816862,Latin America and Caribbean,Brazil,BOVESPA,Food Products,São Martinho S.A.,SMTO3,Active
+128177377,Latin America and Caribbean,Brazil,BOVESPA,Food Products,Três Tentos Agroindustrial S/A,TTEN3,Active
+223164951,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Atacadão S.A.,CRFB3,Active
+879865,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Companhia Brasileira de Distribuição,PCAR3,Active
+881076,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Dimed S.A. Distribuidora de Medicamentos,PNVL3,Active
+22759327,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Empreendimentos Pague Menos S.A.,PGMN3,Active
+688533087,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Grupo Mateus S.A.,GMAT3,Active
+880642,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Raia Drogasil S.A.,RADL3,Active
+35411526,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,Sendas Distribuidora S.A.,ASAI3,Active
+676979840,Latin America and Caribbean,Brazil,BOVESPA,Food and Staples Retailing,d1000 Varejo Farma Participações S.A.,DMVF3,Active
+1061236,Latin America and Caribbean,Brazil,BOVESPA,Gas Utilities,Companhia Distribuidora de Gás do Rio de Janeiro - CEG,CEGR3,Active
+2491655,Latin America and Caribbean,Brazil,BOVESPA,Gas Utilities,Companhia de Gás de São Paulo - COMGÁS,CGAS5,Active
+682414014,Latin America and Caribbean,Brazil,BOVESPA,Gas Utilities,Compass Gas e Energia S.A.,PASS3,Active
+8475764,Latin America and Caribbean,Brazil,BOVESPA,Health Care Equipment and Supplies,Baumer S.A.,BALM4,Active
+61408152,Latin America and Caribbean,Brazil,BOVESPA,Health Care Equipment and Supplies,Lifemed Industrial de Equipamentos e Artigos Médicos e Hospitalares S.A.,LMED3,Active
+278600124,Latin America and Caribbean,Brazil,BOVESPA,Health Care Equipment and Supplies,STERIS Corporation,S1TE34,Active
+228674447,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,CM Hospitalar S/A,VVEO3,Active
+78721483,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Centro de Imagem Diagnósticos S.A.,AALR3,Active
+1432337,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Diagnósticos da América S.A.,DASA3,Active
+22988815,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Fleury S.A.,FLRY3,Active
+554443401,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Hapvida Participações e Investimentos S.A.,HAPV3,Active
+51183589,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Hospital Mater Dei S.A.,MATD3,Active
+30400694,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Instituto Hermes Pardini S.A.,PARD3,Active
+697011095,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Kora Saúde Participações S.A.,KRSA3,Active
+316983890,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Notre Dame Intermédica Participações S.A.,GNDI3,Active
+30270687,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Odontoprev S.A.,ODPV3,Active
+263270080,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Oncoclínicas do Brasil Serviços Médicos S.A.,ONCO3,Active
+5690139,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Profarma Distribuidora de Produtos Farmacêuticos S.A.,PFRM3,Active
+136739607,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Qualicorp Consultoria e Corretora de Seguros S.A.,QUAL3,Active
+104485064,Latin America and Caribbean,Brazil,BOVESPA,Health Care Providers and Services,Rede D'Or São Luiz S.A.,RDOR3,Active
+265848352,Latin America and Caribbean,Brazil,BOVESPA,"Hotels, Restaurants and Leisure",BK Brasil Operação e Assessoria a Restaurantes S.A.,BKBR3,Active
+82623951,Latin America and Caribbean,Brazil,BOVESPA,"Hotels, Restaurants and Leisure",CVC Brasil Operadora e Agência de Viagens S.A.,CVCB3,Active
+9623146,Latin America and Caribbean,Brazil,BOVESPA,"Hotels, Restaurants and Leisure",Hotéis Othon S.A.,HOOT4,Active
+61575798,Latin America and Caribbean,Brazil,BOVESPA,"Hotels, Restaurants and Leisure",International Meal Company Alimentação S.A.,MEAL3,Active
+377771373,Latin America and Caribbean,Brazil,BOVESPA,"Hotels, Restaurants and Leisure",Smartfit Escola de Ginástica e Dança S.A.,SMFT3,Active
+7683276,Latin America and Caribbean,Brazil,BOVESPA,"Hotels, Restaurants and Leisure",São Paulo Turismo S.A.,AHEB3,Active
+689174831,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Alphaville S.A.,AVLL3,Active
+38012098,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Construtora Tenda S.A.,TEND3,Active
+216110474,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Cury Construtora e Incorporadora S.A.,CURY3,Active
+880614,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Cyrela Brazil Realty S.A. Empreendimentos e Participações,CYRE3,Active
+45986509,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Direcional Engenharia S.A.,DIRR3,Active
+35158461,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,EZTEC Empreendimentos e Participações S.A.,EZTC3,Active
+33191588,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Even Construtora e Incorporadora S.A.,EVEN3,Active
+767610,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Gafisa S.A.,GFSA3,Active
+4481053,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Hércules S.A - Fábrica de Talheres,HETA4,Active
+32430145,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,MRV Engenharia e Participações S.A.,MRVE3,Active
+20385381,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Mundial S.A. - Produtos de Consumo,MNDL3,Active
+31162367,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,PDG Realty S.A. Empreendimentos e Participações,PDGR3,Active
+678972127,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Plano & Plano Desenvolvimento Imobiliário S.A.,PLPL3,Active
+31047958,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,RNI Negócios Imobiliários S.A.,RDNI3,Active
+882773,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Rossi Residencial S.A.,RSID3,Active
+28872678,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Springs Global Participações S.A.,SGPS3,Active
+31337559,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Tecnisa S.A.,TCSA3,Active
+38012348,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Trisul S.A.,TRIS3,Active
+178059923,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Unicasa Indústria de Móveis S.A.,UCAS3,Active
+34509438,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Viver Incorporadora e Construtora S.A.,VIVR3,Active
+686069,Latin America and Caribbean,Brazil,BOVESPA,Household Durables,Whirlpool S.A.,WHRL4,Active
+878043,Latin America and Caribbean,Brazil,BOVESPA,Household Products,Bombril S.A.,BOBR4,Active
+26105,Latin America and Caribbean,Brazil,BOVESPA,IT Services,CSU Cardsystem S.A.,CARD3,Active
+5533649,Latin America and Caribbean,Brazil,BOVESPA,IT Services,Cielo S.A.,CIEL3,Active
+9708253,Latin America and Caribbean,Brazil,BOVESPA,IT Services,Locaweb Serviços de Internet S.A.,LWSA3,Active
+709143895,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,AES Brasil Energia S.A.,AESB3,Active
+874181,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,CESP - Companhia Energética de São Paulo,CESP6,Active
+883028,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,Empresa Metropolitana de Águas e Energia S.A.,EMAE4,Active
+9274776,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,Eneva S.A.,ENEV3,Active
+882974,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,Engie Brasil Energia S.A.,EGIE3,Active
+692501101,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,Focus Energia Holding Participações S.A.,POWE3,Active
+108728506,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,Omega Geração S.A.,OMGE3,Active
+84938888,Latin America and Caribbean,Brazil,BOVESPA,Independent Power and Renewable Electricity Producers,Renova Energia S.A.,RNEW11,Active
+9437796,Latin America and Caribbean,Brazil,BOVESPA,Industrial Conglomerates,Companhia Habitasul de Participações,HBTS5,Active
+4509240,Latin America and Caribbean,Brazil,BOVESPA,Industrial Conglomerates,Companhia de Participações Aliança da Bahia,PEAB4,Active
+115152923,Latin America and Caribbean,Brazil,BOVESPA,Insurance,Alper Consultoria e Corretora de Seguros S.A.,APER3,Active
+225687232,Latin America and Caribbean,Brazil,BOVESPA,Insurance,BB Seguridade Participações S.A.,BBSE3,Active
+310010418,Latin America and Caribbean,Brazil,BOVESPA,Insurance,Caixa Seguridade Participações S.A.,CXSE3,Active
+879972,Latin America and Caribbean,Brazil,BOVESPA,Insurance,Companhia de Seguros Alianca da Bahia,CSAB4,Active
+13426781,Latin America and Caribbean,Brazil,BOVESPA,Insurance,IRB-Brasil Resseguros S.A.,IRBR3,Active
+8475467,Latin America and Caribbean,Brazil,BOVESPA,Insurance,Porto Seguro S.A.,PSSA3,Active
+37612389,Latin America and Caribbean,Brazil,BOVESPA,Insurance,Sul América S.A.,SULA11,Active
+261995300,Latin America and Caribbean,Brazil,BOVESPA,Insurance,Wiz Soluções e Corretagem de Seguros S.A.,WIZS3,Active
+707396231,Latin America and Caribbean,Brazil,BOVESPA,Interactive Media and Services,Dotz S.A.,DOTZ3,Active
+707787504,Latin America and Caribbean,Brazil,BOVESPA,Interactive Media and Services,Infracommerce CXaaS S.A.,IFCM3,Active
+311972589,Latin America and Caribbean,Brazil,BOVESPA,Interactive Media and Services,Mosaico Tecnologia ao Consumidor S.A.,MOSI3,Active
+687060509,Latin America and Caribbean,Brazil,BOVESPA,Interactive Media and Services,Méliuz S.A.,CASH3,Active
+1028820,Latin America and Caribbean,Brazil,BOVESPA,Internet and Direct Marketing Retail,Americanas S.A.,AMER3,Active
+276475552,Latin America and Caribbean,Brazil,BOVESPA,Internet and Direct Marketing Retail,Enjoei S.A.,ENJU3,Active
+140995067,Latin America and Caribbean,Brazil,BOVESPA,Internet and Direct Marketing Retail,GetNinjas S.A.,NINJ3,Active
+144081,Latin America and Caribbean,Brazil,BOVESPA,Internet and Direct Marketing Retail,Lojas Americanas S.A.,LAME4,Active
+224815062,Latin America and Caribbean,Brazil,BOVESPA,Internet and Direct Marketing Retail,Mobly S.A.,MBLY3,Active
+582863729,Latin America and Caribbean,Brazil,BOVESPA,Internet and Direct Marketing Retail,Westwing Comércio Varejista S.A.,WEST3,Active
+4481608,Latin America and Caribbean,Brazil,BOVESPA,Leisure Products,Bicicletas Monark S.A.,BMKS3,Active
+878236,Latin America and Caribbean,Brazil,BOVESPA,Leisure Products,Manufatura de Brinquedos Estrela S.A.,ESTR4,Active
+878179,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Bardella S.A. Indústrias Mecânicas,BDLL4,Active
+879112,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Indústrias Romi S.A.,ROMI3,Active
+877346,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Iochpe-Maxion S.A.,MYPK3,Active
+880589,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Kepler Weber S.A.,KEPL3,Active
+881112,Latin America and Caribbean,Brazil,BOVESPA,Machinery,METISA Metalúrgica Timboense S.A.,MTSA4,Active
+877459,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Marcopolo S.A.,POMO4,Active
+10948132,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Metalfrio Solutions S.A.,FRIO3,Active
+881132,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Metalúrgica Riosulense S.A.,RSUL4,Active
+876056,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Nordon Indústrias Metalúrgicas S/A,NORD3,Active
+878140,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Randon S.A. Implementos e Participações,RAPT4,Active
+881073,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Recrusul S/A,RCSL4,Active
+881030,Latin America and Caribbean,Brazil,BOVESPA,Machinery,Schulz S.A.,SHUL4,Active
+127391912,Latin America and Caribbean,Brazil,BOVESPA,Marine,Hidrovias do Brasil S.A.,HBSA3,Active
+34902134,Latin America and Caribbean,Brazil,BOVESPA,Marine,Log-In Logística Intermodal S.A.,LOGN3,Active
+20387805,Latin America and Caribbean,Brazil,BOVESPA,Marine,Trevisa Investimentos S.A.,LUXM4,Active
+8476043,Latin America and Caribbean,Brazil,BOVESPA,Media,Atom Empreendimentos e Participações S.A.,ATOM3,Active
+880735,Latin America and Caribbean,Brazil,BOVESPA,Media,Companhia Melhoramentos de São Paulo,MSPA3,Active
+280282231,Latin America and Caribbean,Brazil,BOVESPA,Media,Eletromidia S.A.,ELMD3,Active
+1078849,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Bradespar S.A.,BRAP3,Active
+133921923,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,CSN Mineração S.A.,CMIN3,Active
+5786331,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Cia de Ferro Ligas da Bahia - FERBASA,FESA4,Active
+5504068,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Companhia Brasileira de Alumínio,CBAV3,Active
+393311,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Companhia Siderúrgica Nacional,CSNA3,Active
+9441194,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Electro Aço Altona S.A.,EALT4,Active
+402894,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Gerdau S.A.,GGBR4,Active
+25217584,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,MMX Mineração e Metálicos S.A.,MMXM3,Active
+877853,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Metalurgica Gerdau S.A.,GOAU4,Active
+879769,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Panatlântica S.A.,PATI4,Active
+878323,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Paranapanema S.A.,PMAM3,Active
+13402461,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Tekno S.A. Indústria e Comércio,TKNO4,Active
+8292709,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Usinas Siderúrgicas de Minas Gerais S.A.,USIM5,Active
+874225,Latin America and Caribbean,Brazil,BOVESPA,Metals and Mining,Vale S.A.,VALE3,Active
+214519760,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),BB Renda de Papéis Imobiliários Fundo de Investimento Imobiliário - FII,RNDP11,Active
+291371460,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Banestes Recebiveis Imobiliarios Fundo Investimento Imobiliario FII,BCRI11,Active
+127852572,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Fator Veritá Fundo de Investimento Imobiliário - FII,VRTA11,Active
+257260939,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliário - FII BTG Pactual Fundo De CRI,FEXC11,Active
+257260985,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Fundo De Investimento Imobiliário - FII BTG Pactual Fundo De Fundos,BCFF11,Active
+224098380,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII,KNCR11,Active
+217515368,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Maxi Renda Fundo De Investimento Imobiliaro - FII,MXRF11,Active
+225503321,Latin America and Caribbean,Brazil,BOVESPA,Mortgage Real Estate Investment Trusts (REITs),Rio Bravo Credito - Imobiliario II Fundo Invest Imobiliario FII Fund,RBVO11,Active
+880752,Latin America and Caribbean,Brazil,BOVESPA,Multiline Retail,Grazziotin S.A.,CGRA4,Active
+879240,Latin America and Caribbean,Brazil,BOVESPA,Multiline Retail,Lojas Renner S.A.,LREN3,Active
+5547431,Latin America and Caribbean,Brazil,BOVESPA,Multiline Retail,Magazine Luiza S.A.,MGLU3,Active
+38012185,Latin America and Caribbean,Brazil,BOVESPA,Multiline Retail,Marisa Lojas S.A.,AMAR3,Active
+243296553,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",3R Petroleum Óleo e Gás S.A.,RRRP3,Active
+5522655,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Cosan S.A.,CSAN3,Active
+275261798,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Dommo Energia S.A.,DMMO3,Active
+115369972,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Enauta Participações S.A.,ENAT3,Active
+111225082,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Petro Rio S.A.,PRIO3,Active
+47845084,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Petroreconcavo S.A.,RECV3,Active
+409268,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Petróleo Brasileiro S.A. - Petrobras,PETR4,Active
+5467148,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Raízen S.A.,RAIZ4,Active
+881127,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Refinaria de Petróleos de Manguinhos S.A.,RPMG3,Active
+403623,Latin America and Caribbean,Brazil,BOVESPA,"Oil, Gas and Consumable Fuels",Ultrapar Participações S.A.,UGPA3,Active
+20385219,Latin America and Caribbean,Brazil,BOVESPA,Paper and Forest Products,Blue Tech Solutions E.Q.I. S.A.,JBDU4,Active
+27169270,Latin America and Caribbean,Brazil,BOVESPA,Paper and Forest Products,Dexco S.A.,DXCO3,Active
+877352,Latin America and Caribbean,Brazil,BOVESPA,Paper and Forest Products,Eucatex S.A. Indústria e Comércio,EUCA4,Active
+880615,Latin America and Caribbean,Brazil,BOVESPA,Paper and Forest Products,Irani Papel e Embalagem S.A.,RANI3,Active
+874210,Latin America and Caribbean,Brazil,BOVESPA,Paper and Forest Products,Suzano S.A.,SUZB3,Active
+5507464,Latin America and Caribbean,Brazil,BOVESPA,Personal Products,Natura &Co Holding S.A.,NTCO3,Active
+34669017,Latin America and Caribbean,Brazil,BOVESPA,Pharmaceuticals,Hypera S.A.,HYPE3,Active
+271535433,Latin America and Caribbean,Brazil,BOVESPA,Pharmaceuticals,Ouro Fino Saúde Animal Participações S.A.,OFSA3,Active
+117090771,Latin America and Caribbean,Brazil,BOVESPA,Professional Services,Boa Vista Serviços S.A.,BOAS3,Active
+36879761,Latin America and Caribbean,Brazil,BOVESPA,Professional Services,CTC - Centro de Tecnologia Canavieira S.A.,CTCA3,Active
+884207,Latin America and Caribbean,Brazil,BOVESPA,Professional Services,DTCOM - Direct to Company S.A.,DTCY3,Active
+33595591,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Aliansce Sonae Shopping Centers SA,ALSO3,Active
+30271217,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,BR Malls Participações S.A.,BRML3,Active
+29252427,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,BR Properties S.A.,BRPR3,Active
+38648130,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Brasil Brokers Participações S.A.,BBRK3,Active
+36123525,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,CR2 Empreendimentos Imobiliários S.A.,CRDE3,Active
+880077,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Corrêa Ribeiro S.A. Comércio e Indústria,CORR4,Active
+34932000,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,General Shopping e Outlets do Brasil S.A.,GSHP3,Active
+306458985,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,HBR Realty Empreendimentos Imobiliários S.A.,HBRE3,Active
+38648356,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Helbor Empreendimentos S.A.,HBOR3,Active
+880543,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,IGB Eletronica S.A.,IGBR3,Active
+31267031,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Iguatemi Empresa de Shopping Centers S.A.,IGTA3,Active
+33774899,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,JHSF Participações S.A.,JHSF3,Active
+878064,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Jereissati Participações S.A.,JPSA3,Active
+880727,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,João Fortes Engenharia S.A.,JFEN3,Active
+100544857,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,LOG Commercial Properties e Participações S.A.,LOGG3,Active
+30719836,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,LPS Brasil - Consultoria de Imóveis S.A.,LPSB3,Active
+676966524,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Lavvi Empreendimentos Imobiliários S.A.,LAVV3,Active
+279634751,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Melnick Even Desenvolvimento Imobiliário S.A.,MELK3,Active
+647701878,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Mitre Realty Empreendimentos e Participações S.A.,MTRE3,Active
+45986347,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Moura Dubeux Engenharia S.A.,MDNE3,Active
+35879810,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Multiplan Empreendimentos Imobiliários S.A.,MULT3,Active
+35716635,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,SYN prop e tech S.A.,SYNE3,Active
+13746373,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,São Carlos Empreendimentos e Participações S.A.,SCAR3,Active
+1675282056,Latin America and Caribbean,Brazil,BOVESPA,Real Estate Management and Development,Terra Santa Propriedades Agrícolas S.A.,LAND3,Active
+109021214,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,Companhia de Locação das Américas,LCAM3,Active
+98241624,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,JSL S.A.,JSLG3,Active
+30900,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,Localiza Rent a Car S.A.,RENT3,Active
+317654668,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,Movida Participações S.A.,MOVI3,Active
+752381,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,Rumo S.A.,RAIL3,Active
+275947862,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,SIMPAR S.A.,SIMH3,Active
+34177478,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,Tegma Gestão Logística S.A.,TGMA3,Active
+555615596,Latin America and Caribbean,Brazil,BOVESPA,Road and Rail,"Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",VAMO3,Active
+41076983,Latin America and Caribbean,Brazil,BOVESPA,Software,ClearSale S.A.,CLSA3,Active
+306356165,Latin America and Caribbean,Brazil,BOVESPA,Software,Neogrid Participações S.A.,NGRD3,Active
+27752826,Latin America and Caribbean,Brazil,BOVESPA,Software,Sinqia S.A.,SQIA3,Active
+26271308,Latin America and Caribbean,Brazil,BOVESPA,Software,TOTVS S.A.,TOTS3,Active
+366701871,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,C&A Modas S.A.,CEAB3,Active
+880590,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Embpar Participacoes S.A.,EPAR3,Active
+224057853,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Grupo SBF S.A.,SBFG3,Active
+5439927,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Lojas Quero-Quero S.A.,LJQQ3,Active
+279761907,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Pet Center Comércio e Participações S.A.,PETZ3,Active
+874906,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Petrobras Distribuidora S.A.,BRDT3,Active
+881183,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Saraiva Livreiros S.A. - em Recuperação Judicial,SLED4,Active
+426550287,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Track & Field Co S.A.,TFCO4,Active
+880492,Latin America and Caribbean,Brazil,BOVESPA,Specialty Retail,Via S.A.,VIIA3,Active
+47102671,Latin America and Caribbean,Brazil,BOVESPA,"Technology Hardware, Storage and Peripherals",Multilaser Industrial S.A.,MLAS3,Active
+21989722,Latin America and Caribbean,Brazil,BOVESPA,"Technology Hardware, Storage and Peripherals",Positivo Tecnologia S.A.,POSI3,Active
+874525,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Alpargatas S.A.,ALPA4,Active
+38965661,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Arezzo Indústria e Comércio S.A.,ARZZ3,Active
+4481569,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Cambuci S.A.,CAMB3,Active
+5582940,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Cia. Hering,HGTX3,Active
+880454,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Companhia Tecidos Santanense Ltda.,CTSA4,Active
+880654,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Companhia de Fiação e Tecidos Cedro e Cachoeira S.A.,CEDO4,Active
+8100518,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Companhia de Tecidos Norte de Minas,CTNM4,Active
+880497,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Döhler S.A.,DOHL4,Active
+9441195,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods","Empresa Nacional de Comércio, Rédito e Participações S.A. - Encorpar",ECPR4,Active
+5854084,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Grendene S.A.,GRND3,Active
+657190727,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Grupo de Moda SOMA S.A.,SOMA3,Active
+878172,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Guararapes Confecções S.A.,GUAR3,Active
+880688,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Karsten S.A.,CTKA4,Active
+5425043,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Pettenati S.A. Industria Têxtil,PTNT4,Active
+43221983,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Restoque Comércio e Confecções de Roupas S.A.,LLIS3,Active
+134457876,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Technos S.A.,TECN3,Active
+877994,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Teka Tecelagem Kuehnrich S.A.,TEKA4,Active
+880603,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Têxtil Renauxview S.A.,TXRX4,Active
+637598006,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Vivara Participações S.A.,VIVA3,Active
+4481396,Latin America and Caribbean,Brazil,BOVESPA,"Textiles, Apparel and Luxury Goods",Vulcabras Azaleia S.A.,VULC3,Active
+695583881,Latin America and Caribbean,Brazil,BOVESPA,Trading Companies and Distributors,AgroGalaxy Participações S.A.,AGXY3,Active
+686200466,Latin America and Caribbean,Brazil,BOVESPA,Trading Companies and Distributors,"Armac Locação, Logística e Serviços S.A.",ARML3,Active
+35622194,Latin America and Caribbean,Brazil,BOVESPA,Trading Companies and Distributors,Mills Estruturas e Serviços de Engenharia S.A.,MILS3,Active
+7668873,Latin America and Caribbean,Brazil,BOVESPA,Trading Companies and Distributors,WLM Participações e Comércio de Máquinas e Veículos S.A.,WLMM4,Active
+6229242,Latin America and Caribbean,Brazil,BOVESPA,Transportation Infrastructure,CCR S.A.,CCRO3,Active
+7665420,Latin America and Caribbean,Brazil,BOVESPA,Transportation Infrastructure,EcoRodovias Infraestrutura e Logística S.A.,ECOR3,Active
+7685459,Latin America and Caribbean,Brazil,BOVESPA,Transportation Infrastructure,Santos Brasil Participações S.A.,STBP3,Active
+35057787,Latin America and Caribbean,Brazil,BOVESPA,Transportation Infrastructure,Triunfo Participações e Investimentos S.A.,TPIS3,Active
+12934640,Latin America and Caribbean,Brazil,BOVESPA,Transportation Infrastructure,Wilson Sons Limited,WSON33,Active
+884253,Latin America and Caribbean,Brazil,BOVESPA,Water Utilities,Companhia Catarinense de Águas e Saneamento - CASAN,CASN3,Active
+880587,Latin America and Caribbean,Brazil,BOVESPA,Water Utilities,Companhia de Saneamento Básico do Estado de São Paulo - SABESP,SBSP3,Active
+22615575,Latin America and Caribbean,Brazil,BOVESPA,Water Utilities,Companhia de Saneamento de Minas Gerais,CSMG3,Active
+982394,Latin America and Caribbean,Brazil,BOVESPA,Water Utilities,Companhia de Saneamento do Paraná - SANEPAR,SAPR4,Active
+413394,Latin America and Caribbean,Brazil,BOVESPA,Wireless Telecommunication Services,TIM S.A.,TIMS3,Active
