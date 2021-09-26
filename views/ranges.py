@@ -133,3 +133,27 @@ def get_ranges_pe_ratio(request):
 		return pd.DataFrame([])
 
 	return separate_portfolios(request, pivoted_df)
+
+def get_scatter_alpha(request):
+	data = request.get_json()
+	metric = data["metric"]
+
+	if metric == "E":
+		metric = "delta_e"
+	elif metric == "S":
+		metric = "delta_s"
+	elif metric == "G":
+		metric = "delta_g"
+	elif metric == "score":
+		metric = "delta_esg"
+
+	df = pd.read_csv("./data/eagr.csv").set_index("ticker")
+	df["delta_alpha"] = 100*df["delta_alpha"]
+	average_e = np.mean(df[metric])
+	std_e  = np.std(df[metric])
+	df[metric] = df[metric].apply(lambda x: (x-average_e)/std_e if abs((x-average_e)/std_e) <= 1.5 else 0)
+
+	df = df.loc[:, ["assessment_year", metric, "delta_alpha"]]
+	df = df.rename(columns={metric: "delta_metric"})
+
+	return df.reset_index()

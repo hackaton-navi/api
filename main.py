@@ -5,7 +5,7 @@ import json
 import os
 from views.heatmap import get_esg_data
 from views.optimizer import get_optimized_df
-from views.ranges import get_ranges_ebitda, get_ranges_stock_price, get_stock_sectors, get_ranges_pe_ratio
+from views.ranges import get_ranges_ebitda, get_ranges_stock_price, get_stock_sectors, get_ranges_pe_ratio, get_scatter_alpha
 from views.single import get_historical_price, get_ebitda_growth, get_esg_score, get_esg_growth
 from views.increase import get_ebitda_esg_corr
 from views.portfolio_analytics import get_cum_return_chart, get_sharpe_ratio_chart, get_efficient_frontier, get_correlation_matrix
@@ -40,6 +40,11 @@ def ranges_stock_price():
 @app.route("/ranges-pe-ratio", methods=["post"])
 def ranges_pe_ratio():
 	df = get_ranges_pe_ratio(request)
+	return Response(df.to_json(orient="records"), mimetype='application/json')
+
+@app.route("/ranges-scatter-alpha", methods=["post"])
+def ranges_scatter_alpha():
+	df = get_scatter_alpha(request)
 	return Response(df.to_json(orient="records"), mimetype='application/json')
 
 @app.route("/historical-price", methods=["post"])
