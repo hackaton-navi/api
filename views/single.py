@@ -66,12 +66,4 @@ def get_esg_growth(request):
 
 	all_portfolios = pd.concat(dfs)
 
-	for i in range(len(all_portfolios.columns)-2, 0, -1):
-		prev_column = all_portfolios.columns[i-1]
-		column = all_portfolios.columns[i]
-
-		all_portfolios[column] = (all_portfolios[column]/all_portfolios[prev_column]) - 1
-
-	all_portfolios.drop(columns=[all_portfolios.columns[0]], inplace=True)
-
 	return all_portfolios.reset_index()
