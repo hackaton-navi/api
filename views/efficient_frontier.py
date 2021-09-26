@@ -29,6 +29,11 @@ class EfficientFrontier:
 		esg_df = self.read_esg_data()
 
 		esg_df = esg_df[esg_df["ticker"].isin(self.stocks)]
+
+		avg = np.mean(esg_df["score_value"])
+		std = np.std(esg_df["score_value"])
+
+		esg_df["z-score"] = [(i-avg)/std for i in esg_df["score_value"]]
 	
 		risk_factor = 0.05
 		sr = ret/vol + 2*(risk_factor)* np.sum(esg_df["z-score"])
@@ -48,8 +53,8 @@ class EfficientFrontier:
 
 
 	def read_esg_data(self):
-		companies_df = pd.read_csv("companies_br.csv").set_index("company_id")
-		esg_df = pd.read_csv("esg_scores_history_br.csv").set_index("company_id")
+		companies_df = pd.read_csv("./data/companies_br.csv").set_index("company_id")
+		esg_df = pd.read_csv("./data/esg_scores_history_br.csv").set_index("company_id")
 
 		#chosen_stocks = ["EMBR3", "ABEV3", "ITUB4", "VALE3", "PETR4"]
 		esg_cohort_df = esg_df[(esg_df["aspect"] == "S&P Global ESG Score")]
