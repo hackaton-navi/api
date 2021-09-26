@@ -5,7 +5,6 @@ from datetime import date, timedelta, datetime
 import csv
 import pandas as pd
 import numpy as np
-import pandas.io.common
 
 def get_price(code):
 	timestamp_beginning = time.mktime((date.today()-timedelta(days=365)).timetuple())
