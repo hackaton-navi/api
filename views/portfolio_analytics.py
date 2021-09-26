@@ -161,6 +161,21 @@ def get_efficient_frontier(request):
 
 	return get_html(efficient)
 
+def get_esg_efficient_frontier(request):
+	data = request.get_json()
+	stocks = data["stocks"]
+
+	daily_returns, cum_returns, correlation, \
+		portfolio_std, volatility, betas, sharpe_ratios, data, cov_matrix_annual = get_metrics(stocks)
+
+	scatter, max_sharpe, weights = monte_carlo(cov_matrix_annual, daily_returns, data)
+
+	ef = EfficientFrontier(daily_returns, 2, stocks)
+
+	efficient = ef.efficient_frontier(scatter, weights)
+
+	return get_html(efficient)
+
 def get_correlation_matrix(request):
 	data = request.get_json()
 	stocks = data["stocks"]

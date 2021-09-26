@@ -4,15 +4,37 @@ from scipy.optimize import minimize
 import holoviews as hv
 
 class EfficientFrontier:
-	def __init__(self, daily_returns):
+	def __init__(self, daily_returns, op=1, stocks=[]):
 		self.daily_returns = daily_returns
-		print("")
+		if op == 1:
+			self.get_ret_vol_sr = self.get_ret_vol_sr1
+		else:
+			self.get_ret_vol_sr = self.get_ret_vol_sr2
+		self.stocks = stocks
 
-	def get_ret_vol_sr(self, weights): 
+	def get_ret_vol_sr1(self, weights): 
 		weights = np.array(weights)
 		ret = np.sum((self.daily_returns.mean()*weights)*252)
 		vol = np.sqrt(np.dot(weights.T,np.dot(self.daily_returns.cov()*252, weights)))
 		sr = ret/vol
+		return np.array([ret,vol,sr])
+
+	def get_ret_vol_sr2(self, weights): 
+		weights = np.array(weights)
+		ret = np.sum((self.daily_returns.mean()*weights)*252)
+		# NEW SHARPE
+		# np.sum((daily_returns.mean()*weights)*252)
+		vol = np.sqrt(np.dot(weights.T,np.dot(self.daily_returns.cov()*252, weights)))
+
+		esg_df = self.read_esg_data()
+
+		esg_df = esg_df[esg_df["ticker"].isin(self.stocks)]
+	
+		risk_factor = 0.05
+		sr = ret/vol + 2*(risk_factor)* np.sum(esg_df["z-score"])
+		# NEW SHARPE
+		# risk aversion factor ra
+		# sr = sqrt(sr*sr + 2 * ra * (esgi - esgU)/std(esgs))
 		return np.array([ret,vol,sr])
 
 	def neg_sharpe(self, weights): 
@@ -23,6 +45,24 @@ class EfficientFrontier:
 
 	def minimize_volatility(self, weights):
 		return  self.get_ret_vol_sr(weights)[1] 
+
+
+	def read_esg_data(self):
+		companies_df = pd.read_csv("companies_br.csv").set_index("company_id")
+		esg_df = pd.read_csv("esg_scores_history_br.csv").set_index("company_id")
+
+		#chosen_stocks = ["EMBR3", "ABEV3", "ITUB4", "VALE3", "PETR4"]
+		esg_cohort_df = esg_df[(esg_df["aspect"] == "S&P Global ESG Score")]
+		
+		l = []
+		for i in esg_cohort_df.index:
+			if i in companies_df.index:
+				l.append(companies_df.loc[i]["ticker"])
+			else:
+				l.append(None)
+		esg_cohort_df["ticker"] = l
+
+		return esg_cohort_df
 
 	def efficient_frontier(self, scatter, weights):
 		cons = ({'type':'eq','fun': self.check_sum})

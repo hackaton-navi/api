@@ -54,6 +54,19 @@ def separate_portfolios(request, pivoted_df):
 	value2 = int(data["value2"])
 	value3 = int(data["value3"])
 	metric = data["metric"]
+	stocks = data["stocks"] if "stocks" in data else None
+
+	portfolios_list = []
+
+	if stocks is not None:
+		print(pivoted_df.head())
+		if "ticker" in pivoted_df.columns:
+			portfolio = pivoted_df[pivoted_df["ticker"].isin(stocks)]
+		else:
+			portfolio = pivoted_df[pivoted_df.index.isin(stocks)]
+		portfolio_grouped = portfolio.mean().to_frame().T
+		portfolio_grouped["portfolio"] = "Portfólio"
+		portfolios_list.append(portfolio_grouped)
 
 	high_score = pivoted_df[(pivoted_df[metric] < value3) & (pivoted_df[metric] > value2)]
 	medium_score = pivoted_df[(pivoted_df[metric] < value2) & (pivoted_df[metric] > value1)]
@@ -67,7 +80,11 @@ def separate_portfolios(request, pivoted_df):
 	medium_grouped["portfolio"] = "Medium Score ESG"
 	low_grouped["portfolio"] = "Low Score ESG"
 
-	all_portfolios = pd.concat([high_grouped, medium_grouped, low_grouped])
+	portfolios_list.append(high_grouped)
+	portfolios_list.append(medium_grouped)
+	portfolios_list.append(low_grouped)
+
+	all_portfolios = pd.concat(portfolios_list)
 
 	return all_portfolios
 

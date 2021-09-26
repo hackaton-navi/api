@@ -8,7 +8,7 @@ from views.optimizer import get_optimized_df
 from views.ranges import get_ranges_ebitda, get_ranges_stock_price, get_stock_sectors, get_ranges_pe_ratio, get_scatter_alpha
 from views.single import get_historical_price, get_ebitda_growth, get_esg_score, get_esg_growth
 from views.increase import get_ebitda_esg_corr
-from views.portfolio_analytics import get_cum_return_chart, get_sharpe_ratio_chart, get_efficient_frontier, get_correlation_matrix
+from views.portfolio_analytics import get_cum_return_chart, get_sharpe_ratio_chart, get_efficient_frontier, get_correlation_matrix, get_esg_efficient_frontier
 
 app = Flask(__name__)
 CORS(app)
@@ -90,6 +90,11 @@ def sharpe_ratios():
 @app.route("/efficient-frontier", methods=["post"])
 def efficient_frontier():
 	html = get_efficient_frontier(request)
+	return Response(html, mimetype='application/html')
+
+@app.route("/esg-efficient-frontier", methods=["post"])
+def esg_efficient_frontier():
+	html = get_esg_efficient_frontier(request)
 	return Response(html, mimetype='application/html')
 
 @app.route("/correl-matrix", methods=["post"])
