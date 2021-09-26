@@ -5,6 +5,7 @@ from datetime import date, timedelta, datetime
 import csv
 import pandas as pd
 import numpy as np
+import pandas.io.common
 
 def get_price(code):
 	timestamp_beginning = time.mktime((date.today()-timedelta(days=365)).timetuple())
@@ -14,9 +15,17 @@ def get_price(code):
 	prices = [{"date": datetime.date(datetime.strptime(x[0], "%Y-%m-%d")), "value": x[4]} for x in list(csv.reader(response.read().decode().splitlines(), delimiter=','))[1:]]
 
 	df = pd.DataFrame([[p["date"], p["value"] if p["value"] != "null" else np.nan] for p in prices], columns=['DATE', code])
+
 	return df
 
 def get_stocks_prices(stocks):
+	today = datetime.today().strftime("%Y%m")
+	try:
+		df = pd.read_csv("./data/%s_stock_prices.csv"%today)
+		return df
+	except:
+		print("Regenerating data")
+
 	stocks_prices = None
 	for stock in stocks:
 		df = get_price(stock)
@@ -24,4 +33,7 @@ def get_stocks_prices(stocks):
 			stocks_prices = df
 		else:
 			stocks_prices = stocks_prices.merge(df, how="inner", on="DATE")
+
+	stocks_prices.to_csv("./data/%s_stock_prices.csv"%today)
+
 	return stocks_prices
