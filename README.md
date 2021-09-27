@@ -87,6 +87,13 @@ $ gunicorn main:app --bind 0.0.0.0:${PORT}
 * -w : number of worker
 * -b : Socket to bind
 
+## Authors
+
+- Enrico Robazza
+- Érico Faustino
+- Luca Bottino
+- Vinícius Baca
+
 ## Reference
 
 Offical Website
