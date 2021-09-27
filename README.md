@@ -13,22 +13,34 @@ $ pip install -r requirements.txt
 
 ## Flask Application Structure 
 ```
-|──────app/
-| |────__init__.py
-| |────api/
-| | |────__init__.py
-| | |────cve/
-| | |────user/
-| | |────oauth/
-| |──────config.Development.cfg
-| |──────config.Production.cfg
-| |──────config.Testing.cfg
-| |────dao/
-| |────model/
-| |────oauth/
-| |────util/
-|──────run.py
-|──────tests/
+├── custom_filename.html
+├── data
+│   ├── 202109_stock_prices.csv
+│   ├── companies_br.csv
+│   ├── eagr.csv
+│   ├── ebitda_hist.csv
+│   ├── ebitda_year.csv
+│   ├── esg_scores_history_br.csv
+│   ├── Ibovespa.csv
+│   ├── market_cap.csv
+│   ├── pe_ratio.csv
+│   └── sectors.csv
+├── hv_scatter.html
+├── main.py
+├── Procfile
+├── requirements.txt
+├── run.sh
+├── services
+│   └── yfinance.py
+├── teste.py
+└── views
+    ├── efficient_frontier.py
+    ├── heatmap.py
+    ├── increase.py
+    ├── optimizer.py
+    ├── portfolio_analytics.py
+    ├── ranges.py
+    └── single.py
 
 ```
 
