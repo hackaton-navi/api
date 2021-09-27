@@ -6,7 +6,7 @@ Enrico Robazza
 
 Luca Bottino
 
-Vinícius Bacca
+Vinícius Baca
 
 http://navi.viniciusbaca.com/
 
